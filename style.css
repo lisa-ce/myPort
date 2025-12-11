@@ -6,8 +6,8 @@
 h1{
   margin-left: 80px;
 }
-a{
-  text-decoration: none;
+.menu{
   display: inline-block;
-  margin-right: 15px;
+  gap:20px;
+  text-decoration: none;
 }
