@@ -28,3 +28,12 @@ body{
   color: grey;
   font-size: 16px;
 }
+
+
+.button-social{
+   display: flex;
+  gap: 20px;
+  align-items: center;
+  margin: 40px;
+  font-family: 'Inter', sans-serif;
+}
