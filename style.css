@@ -43,6 +43,12 @@ hr{
   /* margin-top: 70px; */
 }
 
+img{
+  display: inline-block;
+  width: 300px;
+  margin: 40px;
+  padding: 40px;
+}
 .what-i-do {
   font-weight: normal;
   color: gray;
