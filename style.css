@@ -44,7 +44,6 @@ body {
   color: gray;
 }
 
-/* ---------- HERO ---------- */
 .hero {
   padding: 60px 0;
 }
@@ -67,7 +66,7 @@ body {
   margin-top: 20px;
 }
 
-/* ---------- BUTTONS ---------- */
+
 .button-row {
   display: flex;
   flex-wrap: wrap;
@@ -98,7 +97,7 @@ body {
   color: gray;
 }
 
-/* ---------- CARDS ---------- */
+
 .card-container,
 .projects-wrapper {
   display: grid;
@@ -113,7 +112,7 @@ body {
   box-shadow: 0 2px 8px rgba(0,0,0,.08);
 }
 
-/* ---------- CONNECT ---------- */
+
 .connect-section {
   text-align: center;
   padding: 80px 20px;
@@ -135,7 +134,7 @@ body {
   border: 1px solid #ccc;
 }
 
-/* ---------- FOOTER ---------- */
+
 footer {
   margin-top: 80px;
   padding: 20px;
@@ -145,7 +144,6 @@ footer {
   flex-wrap: wrap;
 }
 
-/* ---------- MOBILE ---------- */
 @media (max-width: 768px) {
   .my-name,
   .my-surname {
