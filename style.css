@@ -469,6 +469,9 @@ h4 {
 .social-icons i:hover {
     color: #000;
 }
+#about, #projects, #blog, #gallery, #contact {
+  scroll-margin-top: 70px;
+}
 
 footer {
     margin-top: 120px;
