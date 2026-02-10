@@ -8,6 +8,11 @@
 html {
   scroll-behavior: smooth;
 }
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
 
 body {
   font-family: 'Inter', sans-serif;
@@ -17,6 +22,7 @@ body {
   margin-left: 140px;
   font-size: 26px;
   margin-top: 10px;
+  margin-left: 10px;
 }
 
 .top {
@@ -61,12 +67,16 @@ img{
   margin-left: 160px;
   margin-top: 90px;
   margin-bottom: 40px;
+ 
+  
 }
 
 .my-name,
 .my-surname {
   font-size: 80px;
   margin-left: 160px;
+ 
+  
 }
 
 .my-surname {
