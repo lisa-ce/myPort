@@ -448,6 +448,7 @@ margin-left: 140px;
     background: #000;
     color: #fff;
     border: none;
+    text-align: center;
 }
 
 .btn.primary:hover {
