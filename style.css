@@ -16,6 +16,7 @@ body {
 .logo {
   margin-left: 140px;
   font-size: 26px;
+  margin-top: 40px;
 }
 
 .top {
@@ -38,6 +39,7 @@ body {
   text-decoration: none;
   color: grey;
   font-size: 22px;
+  margin-top: 40px;
 }
 .logo-highlight{
   color: gray;
@@ -385,7 +387,9 @@ margin-left: 140px;
     font-weight: 600;
     color: #666;
 }
-
+.gallery{
+  margin-left: 180px;
+}
 
 
 .connect-section {
