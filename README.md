@@ -49,19 +49,19 @@ https://lisachikovore.netlify.app/
 
  Functionality Overview
 
-### Intro Animation
+Intro Animation
 
 * Displays initials (`LC`) on page load
 * Automatically transitions after 3 seconds
 * Can be skipped with a click
 
-### Navigation
+Navigation
 
 * Sticky header
 * Smooth scroll behavior
 * Mobile-friendly hamburger menu
 
-### Sections Included
+Sections Included
 
 * About Me
 * Certifications
@@ -72,7 +72,7 @@ https://lisachikovore.netlify.app/
 * Footer
 
 
-## Responsive Design
+Responsive Design
 
 The layout adjusts for:
 
@@ -84,7 +84,7 @@ The hamburger menu activates automatically on smaller screens.
 
 
 
-## Contact
+Contact
 
 * LinkedIn: [https://www.linkedin.com/in/lisa-chikovore-476210262/](https://www.linkedin.com/in/lisa-chikovore-476210262/)
 * GitHub: [https://github.com/lisa-ce](https://github.com/lisa-ce)
@@ -93,15 +93,15 @@ The hamburger menu activates automatically on smaller screens.
 
 
 
-## License
+License
 
 This project is open source and available under the MIT License.
 
 ---
 
-## Author
+Author
 
-**Lisa Chikovore**
+Lisa Chikovore
 Full Stack Web Developer
 Passionate about building clean, responsive, and meaningful web experiences.
 
