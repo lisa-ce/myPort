@@ -53,7 +53,42 @@ body {
 .menu a:hover{
   color: black;
 }
-
+.intro {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #e8e8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    transition: opacity 1s ease, visibility 1s ease;
+}
+.intro.hide {
+    opacity: 0;
+    visibility: hidden;
+}
+.initials {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 200px;
+    font-weight: 600;
+    letter-spacing: -15px;
+    color: #000;
+    animation: zoomIn 2s ease forwards;
+}
+.initials span {
+    font-size: 230px; 
+}
+@keyframes zoomIn {
+    0% {
+        transform: scale(0.7);
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
 img{
   display: inline-block;
   width: 300px;
@@ -492,7 +527,7 @@ margin-left: 140px;
 
 footer {
     margin-top: 10px;
-    padding: 90px 60px;
+    padding: 30px 30px;
     border-top: 1px solid #eee;
     display: flex;
     justify-content: space-between;
