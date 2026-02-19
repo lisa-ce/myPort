@@ -47,7 +47,7 @@ https://lisachikovore.netlify.app/
  └── README.md
 
 
-## Functionality Overview
+ Functionality Overview
 
 ### Intro Animation
 
