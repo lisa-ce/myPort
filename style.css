@@ -13,6 +13,7 @@
 html {
   scroll-behavior: smooth;
 }
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -119,6 +120,7 @@ img{
   
 }
 
+
 .my-name,
 .my-surname {
   font-size: 80px;
@@ -184,6 +186,7 @@ img{
   font-size: 28px;
   margin: 46px 0 10px;
   margin-left: 150px;
+  
 }
 
 .my-brief {
@@ -246,10 +249,15 @@ margin-left: 140px;
   margin-top: 10px;
 }
 
+.left{
+  margin-left: 2px;
+}
+
 .title {
   margin-top: 40px;
   font-size: 16px;
   font-weight: bold;
+  
 }
 
 .provider {
