@@ -50,8 +50,8 @@ body {
 .menu a {
   text-decoration: none;
   color: grey;
-  font-size: px;
-  margin-top: px;
+  font-size: 18px;
+  margin-top: 10px;
 }
 .logo-highlight{
   color: gray;
