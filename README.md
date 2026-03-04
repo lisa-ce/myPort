@@ -32,7 +32,6 @@ https://lisachikovore.netlify.app/
 * **CSS3**
 * **Vanilla JavaScript**
 * [Font Awesome](https://fontawesome.com/) for icons
-* [Lucide Icons](https://lucide.dev/) for additional UI icons
 * Google Fonts (Inter & Cormorant Garamond)
 
 
@@ -70,15 +69,6 @@ Sections Included
 * Speaking & Volunteering
 * Contact Section
 * Footer
-
-
-Responsive Design
-
-The layout adjusts for:
-
-* Desktop screens
-* Tablets
-* Mobile devices (≤ 768px)
 
 The hamburger menu activates automatically on smaller screens.
 
