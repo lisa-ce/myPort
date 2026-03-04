@@ -8,7 +8,7 @@ window.addEventListener("load", function () {
         
     }
 
-    //hello
+
     const timer = setTimeout(showLandingPage, 3000);
 
     
